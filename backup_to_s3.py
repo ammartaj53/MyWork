@@ -4,8 +4,8 @@ import os, boto3
 from datetime import date
 
 TODAY = date.today()
-BUCKET="espbackup-eu-d8a1d818-87dd-11e7-b78e-9cb6d0d99433"
-KEY_FOLDER="ESP_SUPPORT/"
+BUCKET="Bucket Name"
+KEY_FOLDER="Some Folder in above Bucket"
 
 DATE = TODAY.strftime("%Y-%m-%d")
 ALL_FILES = os.listdir("/backup/")

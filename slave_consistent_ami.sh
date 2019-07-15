@@ -1,6 +1,5 @@
 #!/bin/sh
 #
-# By Ammar Taj 03/05/2019
 # This script will stop the slave and create the consistent AMI from slave server.
 # At the end, it will deregister the 5days older AMI and delete the associated snapshots.
 
