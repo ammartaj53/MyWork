@@ -2,7 +2,7 @@
 
 maindir=/home/nagios
 
-TO=ammar.taj@volocommerce.com,Vijaya.Ghalige@volocommerce.com,Anil.Kumar@volocommerce.com,Nick.Anderson@volocommerce.com,Paul.Dicken@volocommerce.com,Gary.Wright@volocommerce.com,Jason.deVine@volocommerce.com
+TO="Your Email List"
 
 >Final_report.txt
 
